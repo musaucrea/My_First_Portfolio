@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction :column;
+    margin : 0;
+    padding :0;
+    height: 100 vh;
+    
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+ aside{
+    flex: 2;
+    overflow-y: auto;
+ }
