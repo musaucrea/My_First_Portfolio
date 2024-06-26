@@ -19,6 +19,6 @@ article{
     overflow-y: auto;
 }
  aside{
-    flex: 2;
+    flex: 1;
     overflow-y: auto;
  }
